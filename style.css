@@ -6,9 +6,12 @@
 }
 
 body {
-    background-color: rgb(103, 247, 199);
+    background-image: url(https://i.pinimg.com/564x/a2/93/4a/a2934a12876c389c3d4e7aa0172e2785--pokemon-fan-art-cute-pokemon.jpg);
+    background-repeat: repeat; 
+    background-size: 10%;
     font-size: 100%;
 }
+
 
 .CaixaPrincipal {
     display: flex;
@@ -120,24 +123,4 @@ body {
   .gallery-wrapper {
     -ms-overflow-style: none; /* IE and Edge */
     scrollbar-width: none; /* Firefox */
-  }
-  
-  .cyan {
-    background: cyan;
-  }
-  
-  .deeppink {
-    background: deeppink;
-  }
-  
-  .turquoise {
-    background: turquoise;
-  }
-  
-  .darkblue {
-    background: darkblue;
-  }
-  
-  .purple {
-    background: purple;
   }
